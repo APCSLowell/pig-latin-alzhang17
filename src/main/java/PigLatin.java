@@ -53,4 +53,4 @@ public class PigLatin {
     		"ay";
   	}
 }
-	//end PigLatin class
+}	//end PigLatin class
